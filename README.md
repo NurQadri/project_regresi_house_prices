@@ -1,4 +1,4 @@
-# Welcome to My Regression Project (Houses Prices)
+# Welcome to My Regression Project (House Price)
 Repositori yang berisi project regresi. Membandingkan beberapa model regresi pada kasus harga rumah
 Project ini berisi analisis harga rumah di King County berdasarkan beberapa faktor. Akan dicari faktor apa yang paling berpengaruh terhadap harga rumah. Juga dibangun beberapa model regresi dengan tujuan melihat model mana yang paling bagus performanya dalam memodelkan data. Data set dapat didownload di https://www.kaggle.com/datasets/harlfoxem/housesalesprediction?resource=download
 
